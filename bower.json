@@ -1,0 +1,17 @@
+{
+  "name": "purescript-eff-functions",
+  "version": "0.0.1",
+  "authors": [
+    "Seitaro Yuuki <sensitivejapaneseman@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-eff": "~0.1.0"
+  }
+}
